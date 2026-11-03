@@ -8,6 +8,8 @@
   "files": ["src/main.ts", "src/main.server.ts"],
   "include": [
     "src/**/*.d.ts",
+    "src/app/**/*.ts",
+    "src/assets/data/movies.json",
     "src/app/pages/**/*.page.ts",
     "src/server/middleware/**/*.ts"
   ]
